@@ -8,9 +8,9 @@ export default function Header() {
           <li>
             <Link
               href="#home"
-              className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              classNaSme="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
             >
-              // home <sup className="text-sm">01</sup>
+              /\home <sup className="text-sm">01</sup>
             </Link>
           </li>
           <li>
@@ -18,7 +18,7 @@ export default function Header() {
               href="#about"
               className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
             >
-              // expertise <sup className="text-sm">02</sup>
+              /\expertise <sup className="text-sm">02</sup>
             </Link>
           </li>
           <li>
@@ -26,7 +26,7 @@ export default function Header() {
               href="#projects"
               className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
             >
-              // work <sup className="text-sm">03</sup>
+              /\work <sup className="text-sm">03</sup>
             </Link>
           </li>
           <li>
@@ -34,7 +34,7 @@ export default function Header() {
               href="#skills"
               className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
             >
-              // experience <sup className="text-sm">04</sup>
+              /\experience <sup className="text-sm">04</sup>
             </Link>
           </li>
           <li>
@@ -42,7 +42,7 @@ export default function Header() {
               href="#contact"
               className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
             >
-              // contact <sup className="text-sm">05</sup>
+              /\contact <sup className="text-sm">05</sup>
             </Link>
           </li>
         </ul>
