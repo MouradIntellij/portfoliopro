@@ -8,41 +8,41 @@ export default function Header() {
           <li>
             <Link
               href="#home"
-              classNaSme="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
-              /\home <sup className="text-sm">01</sup>
+              /\ Home <sup className="text-sm">01</sup>
             </Link>
           </li>
           <li>
             <Link
               href="#about"
-              className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
-              /\expertise <sup className="text-sm">02</sup>
+              /\ Expertise <sup className="text-sm">02</sup>
             </Link>
           </li>
           <li>
             <Link
               href="#projects"
-              className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
-              /\work <sup className="text-sm">03</sup>
+              /\ Work <sup className="text-sm">03</sup>
             </Link>
           </li>
           <li>
             <Link
               href="#skills"
-              className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
-              /\experience <sup className="text-sm">04</sup>
+              /\ Experience <sup className="text-sm">04</sup>
             </Link>
           </li>
           <li>
             <Link
               href="#contact"
-              className="text-gray-200 hover:text-white text-xl md:text-2xl transition-colors duration-300"
+              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
-              /\contact <sup className="text-sm">05</sup>
+              /\ Contact <sup className="text-sm">05</sup>
             </Link>
           </li>
         </ul>

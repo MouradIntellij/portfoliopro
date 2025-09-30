@@ -1,10 +1,12 @@
 export const portfolioData = {
-  name: "Mourad Sehboub",
+  name: "Étudiant(e) du Collège LaSalle",
   title: "Développeur Web | Designer",
   about:
     "Je suis passionné par la création d'expériences web exceptionnelles. Avec une expertise en développement frontend et un œil pour le design, je m'efforce de créer des interfaces à la fois belles et fonctionnelles.",
-  email: "mourad.sehboub@collegelasalle.com",
-  phone: "+1 (514) 222-3333",
+  email: "etudiant.e@collegelasalle.com",
+  adress: "2000 Rue Sainte-Catherine O, Montréal, QC H3H 2T2",
+  Year: "1959",
+  phone: "2000 Rue Sainte-Catherine O, Montréal, QC H3H 2T2   depuis 1959  (514) 939-2006",
   social: {
     github: "https://github.com/MouradIntellij/portfoliopro",
     linkedin: "https://www.linkedin.com/in/mourad-maths-b0904632b/",
@@ -16,8 +18,8 @@ export const portfolioData = {
       title: "Application E-commerce",
       description:
         "Une application e-commerce complète avec panier, paiement et administration.",
-          image: "/images/Projet1.jpg",
-       
+      image: "/images/Projet1.jpg",
+
       tags: ["React", "Next.js", "Tailwind CSS", "Stripe"],
       sourceCode: "https://github.com/votreusername/projet1",
       liveDemo: "https://votresite.com/projet1",

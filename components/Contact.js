@@ -10,7 +10,7 @@ export default function Contact() {
             <strong className="text-white">Email:</strong> {portfolioData.email}
           </p>
           <p className="text-gray-200">
-            <strong className="text-white">Téléphone:</strong>{" "}
+            <strong className="text-white">Adresse:</strong>{" "}
             {portfolioData.phone}
           </p>
         </div>
