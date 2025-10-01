@@ -8,7 +8,7 @@ export default function Header() {
           <li>
             <Link
               href="#home"
-              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
+              className="text-amber-300 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
               /\ Home <sup className="text-sm">01</sup>
             </Link>
@@ -16,7 +16,7 @@ export default function Header() {
           <li>
             <Link
               href="#about"
-              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
+              className="text-amber-300 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
               /\ Expertise <sup className="text-sm">02</sup>
             </Link>
@@ -24,7 +24,7 @@ export default function Header() {
           <li>
             <Link
               href="#projects"
-              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
+              className="text-amber-300 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
               /\ Work <sup className="text-sm">03</sup>
             </Link>
@@ -32,7 +32,7 @@ export default function Header() {
           <li>
             <Link
               href="#skills"
-              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
+              className="text-amber-300 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
               /\ Experience <sup className="text-sm">04</sup>
             </Link>
@@ -40,7 +40,7 @@ export default function Header() {
           <li>
             <Link
               href="#contact"
-              className="text-amber-700 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
+              className="text-amber-300 hover:text-fuchsia-600 text-xl md:text-3xl transition-colors duration-600"
             >
               /\ Contact <sup className="text-sm">05</sup>
             </Link>

@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Link from "next/link";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";
@@ -20,23 +19,6 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      {/* Bouton flottant pour changer de langue */}
-      <div className="fixed top-4 right-4 z-50 flex gap-2">
-        <Link
-          href="/fr"
-          className="px-4 py-2 bg-blue-600 text-white rounded-lg font-medium shadow-lg hover:bg-blue-700 transition-colors"
-        >
-          🇫🇷 FR
-        </Link>
-        <Link
-          href="/en"
-          className="px-4 py-2 bg-gray-700 text-white rounded-lg font-medium shadow-lg hover:bg-gray-600 transition-colors"
-        >
-          🇬🇧 EN
-        </Link>
-      </div>
-
       <Header />
       <main>
         <Hero />
